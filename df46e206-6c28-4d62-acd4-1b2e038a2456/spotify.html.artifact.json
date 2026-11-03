@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "spotify.html",
+  "entry": "spotify.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-11-03T02:24:09.931Z",
+  "updatedAt": "2026-11-03T02:24:09.931Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
